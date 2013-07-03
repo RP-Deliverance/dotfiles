@@ -1,4 +1,4 @@
-scripts
+dotfiles
 =======
 
-My main scripts I use for Linux and OS X
+Just a collection of my dotfiles for OS X and Linux
